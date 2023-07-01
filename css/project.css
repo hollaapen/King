@@ -1,0 +1,33 @@
+.nav-link{
+    float: right!important;
+}
+
+.h1{
+    text-align: center;
+}
+
+.credentials{
+    width: 100%;
+    text-align: center;
+}
+
+.cred1, .cred2{
+    width:50%;
+}
+
+.carousel slide{
+    text-align: center;
+}
+
+
+.d-block{
+    height: 550px;
+    object-fit: cover;
+    width: 100%;
+   text-align: center;
+}
+
+.p1{
+    margin-left: 10px;
+}
+
